@@ -1,21 +1,21 @@
 {
-  "name": "smart-coders-js",
+  "name": "smart-coders-js-main-t",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://19alexandr80.github.io/smart-coders-js",
+  "homepage": "https://Tatiana-Kashcha.github.io/smart-coders-js-main-t",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /smart-coders-js/"
+    "build": "parcel build src/*.html --public-url /smart-coders-js-main-t/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/19alexandr80/smart-coders-js.git"
+    "url": "git+https://github.com/Tatiana-Kashcha/smart-coders-js-main-t.git"
   },
   "keywords": [],
   "author": "smart-coders-js",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/19alexandr80/smart-coders-js/issues"
+    "url": "https://github.com/Tatiana-Kashcha/smart-coders-js-main-T/issues"
   },
   "dependencies": {
     "axios": "^1.4.0",
